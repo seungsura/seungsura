@@ -1,3 +1,4 @@
 I'm worm
 
- <img src="http://mazandi.herokuapp.com/api?handle={budweiserzero}&theme=warm"/>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=budweiserzero)](https://solved.ac/budweiserzero)<br/>
+
